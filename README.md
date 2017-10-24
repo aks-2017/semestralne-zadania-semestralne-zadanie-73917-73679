@@ -1,2 +1,3 @@
-# semestralne-zadania-semestralne-zadanie-73917-73679
-semestralne-zadania-semestralne-zadanie-73917-73679 created by GitHub Classroom
+xbrezani, xhusarp
+
+Špecifikácia je v zložke docs. (24.10.2017)
