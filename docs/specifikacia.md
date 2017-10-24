@@ -23,6 +23,6 @@ o	Porovnanie prenosu dát pri topológiách
 
 ### Nástroje
 
-Mininet – Wifi
-Ryu Controller
+Mininet – Wifi <br />
+Ryu Controller <br />
 OpenFlow network emulator
